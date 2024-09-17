@@ -2,7 +2,8 @@
 - [ ] 任意node之间端口转发
 - [ ] 任意node之间文件传输
 - [ ] 代理与转发表管理
-- [ ] admin权限授予 
+- [ ] admin权限授予（待定）
+- [ ] 聊天室cli/web（待定）
 
 ## Venom - A Multi-hop Proxy for Penetration Testers
 
