@@ -1,3 +1,9 @@
+- [ ] 挂起到后台&恢复
+- [ ] 任意node之间端口转发
+- [ ] 任意node之间文件传输
+- [ ] 代理与转发表管理
+- [ ] admin权限授予 
+
 ## Venom - A Multi-hop Proxy for Penetration Testers
 
 [简体中文](README.md)　｜　[English](README-en.md)
